@@ -1,7 +1,6 @@
 ---
 permalink: /research/
-title: "Research Note: Project report under the supervision of Prof. Karim Lounici"
-date: 2024-01-01
+title: "Research Notes"
 ---
 
 - **Meta Learning via Linear Representation : Project report under the supervision of Prof. Karim Lounici**
