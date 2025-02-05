@@ -1,5 +1,5 @@
 ---
-permalink: /talks/
+permalink: talks/
 title: "Talks and presentations"
 ---
 
