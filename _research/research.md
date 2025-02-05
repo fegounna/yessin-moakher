@@ -3,5 +3,6 @@ title: "Research Note: Project report under the supervision of Prof. Karim Louni
 date: [2024]
 ---
 
-- **Project report under the supervision of Prof. Karim Lounici**
+- **Meta Learning via Linear Representation : Project report under the supervision of Prof. Karim Lounici**
+
 
