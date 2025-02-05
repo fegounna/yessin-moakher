@@ -22,7 +22,7 @@ repository               : "fegounna/yessin-moakher"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo y.jpeg"
+  avatar           : "photo y.jpg"
   name             : "Yessin Moakher"
   pronouns         : # example: "she/her"  
   bio              : "Engineering Student at Ecole Polytechnique"
