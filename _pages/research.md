@@ -4,12 +4,7 @@ title: "Research Notes"
 ---
 
 
----
-title: "Meta Learning via Linear Representation"
-permalink: /research/meta-learning
-excerpt: "Project report under the supervision of Prof. Karim Lounici."
-paperurl: '/files/meta_learning.pdf'
----
+- [Meta Learning via Linear Representation](/files/meta_learning.pdf) : Project report under the supervision of Prof. Karim Lounici.
 - Low-Rank Optimal transport : 
 - Covariance matrix estimation and Random Matrix Theory : 
 
