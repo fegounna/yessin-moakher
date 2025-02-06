@@ -18,7 +18,7 @@ Work experience
 * Summer 2024: Data Science Research Intern 
   * Artefact
   * Duties includes: Researched methods to handle highly imbalanced datasets.
-  * Supervisor: Emmanuel Malherbe, Abdoulaye Sokho
+  * Supervisor: Emmanuel Malherbe, Abdoulaye Sakho
 
 * Fall 2015: Research Assistant
   * GitHub University
