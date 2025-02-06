@@ -12,5 +12,5 @@ author_profile: true
 * **Analysis of a Company's Image in the Media** ([Github](https://github.com/Trick5t3r/Xposure)) (2025)  
   * Teammates: Théo Le Pendeven, Paul Le Van Kiem, Colas Lepoutre, David Kerriou  
 
-* **Lung Tumor Segmentation on CT scan images** (2024)  
+* **Lung Tumor Segmentation on CT scan images**  ([Github](https://github.com/fegounna/PSCC-IPParis-Challenge)) (2024)
   * Paris Saclay Cancer Cluster and IP Paris Hackathon  
