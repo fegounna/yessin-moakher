@@ -9,7 +9,6 @@ author_profile: true
 - **Low-Rank Optimal transport :** [Slides](https://fegounna.github.io/yessin-moakher/files/OT.pdf), [Code](https://github.com/fegounna/POT/tree/low-rank-via-factor-relaxation) (2024) 
 - **Covariance matrix estimation and Random Matrix Theory (Work in progress):** [Report](https://fegounna.github.io/yessin-moakher/files/RMT.pdf) (2025)
 - **Forecasting of extreme events in electricity markets (Work in progress):** (2025)
-
 - **Music Generation Using LLM:**  [Report](https://fegounna.github.io/yessin-moakher/files/PSC_rapport_final.pdf), [Code](https://github.com/fegounna/LLM-Fine-Tuning-for-Music-Generation) (2024)  
 - **Parallelization of a Sobel Filter:** — openMP . Cuda . MPI (2025)  
 
