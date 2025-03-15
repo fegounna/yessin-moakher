@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## Projects  
-* **Music Generation Using LLM** ([Github](https://github.com/fegounna/LLM-Fine-Tuning-for-Music-Generation)) (2024)  
+* **Music Generation Using LLM**  [Report](https://fegounna.github.io/yessin-moakher/files/PSC_rapport_final.pdf), [Code](https://github.com/fegounna/LLM-Fine-Tuning-for-Music-Generation) (2024)  
 * **Parallelization of a Sobel Filter** — C . Cuda . MPI (Present)  
 
 ## Hackathons  
