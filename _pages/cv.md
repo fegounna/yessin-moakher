@@ -22,7 +22,7 @@ Work experience
 * **Summer 2023: Data Science Intern : Vneuron Risk & Compliance**
   * Duties included: Detecting money laundering in banking transactions and exploring model explainability.
   
-Service and leadership
+Service
 ======
 * **Sept 2022 - Apr 2023 (Full-Time): EPIDE - Public Employment Integration Center**
   * Supported disadvantaged youth (17–25) through academic and life-skills training activities.
