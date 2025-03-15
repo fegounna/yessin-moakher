@@ -20,7 +20,7 @@ Work experience
   * Supervisors: Emmanuel Malherbe, Abdoulaye Sakho
 
 * **Summer 2023: Data Science Intern : Vneuron Risk & Compliance**
-  * Duties included: Extracting domain-specific features from transactional banking data to reduce false positives in anomaly detection. And exploring model explainability techniques.
+  * Duties included: Detecting money laundering in banking transactions and exploring model explainability.
   
 Service and leadership
 ======
