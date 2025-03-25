@@ -10,5 +10,5 @@ author_profile: true
 - **Covariance matrix estimation and Random Matrix Theory (Work in progress):** [Report](https://fegounna.github.io/yessin-moakher/files/RMT.pdf)
 - **Forecasting of extreme events in electricity markets (Work in progress):**
 - **Music Generation Using LLM:**  [Report](https://fegounna.github.io/yessin-moakher/files/PSC_rapport_final.pdf), [Code](https://github.com/fegounna/LLM-Fine-Tuning-for-Music-Generation) 
-- **Parallelization of a Sobel Filter using openMP, MPI and CUDA:**   
+- **Parallelization of a Sobel Filter using openMP, MPI and CUDA:** [Report](https://fegounna.github.io/yessin-moakher/files/INF_560.pdf), [Code](https://github.com/fegounna/INF-560-Parallel-Computing)   
 
