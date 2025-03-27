@@ -15,6 +15,8 @@ Education
 
 Work experience
 ======
+* **Present: Machine Learning Research Intern : Huawei**
+  
 * **Summer 2024: Data Science Research Intern : Artefact**
   * Duties includes: Research on highly imbalanced datasets.
   * Supervisors: Emmanuel Malherbe, Abdoulaye Sakho
